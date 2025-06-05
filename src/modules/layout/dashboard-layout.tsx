@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 // Libraries
 import { Outlet } from "react-router";
-import { CssBaseline, useMediaQuery, useTheme } from "@mui/material";
+import { useMediaQuery, useTheme } from "@mui/material";
 
 // Components
 import Topbar from "../common/components/topbar";
