@@ -34,7 +34,7 @@ pnpm build
 
 ## Deployed Application
 
-[View Live Demo](https://kilowatt-dashboard.vercel.app)
+[View Live Demo](https://kilowatt-dashboard-5qa1epha0-shreyas2121s-projects.vercel.app/)
 
 ## Project Structure
 
